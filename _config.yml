@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.anudit.in/"
+url: "https://www.d8plearner.ai/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -12,7 +12,7 @@ baseurl: ""
 #baseurl: "/projectname"
 
 # Name of website
-title: Anudit Verma
+title: Mouad Qarchli
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -67,7 +67,7 @@ avatar: "/img/av.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Anudit Verma
+  name: Mouad Qarchli
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -101,15 +101,15 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.anudit.in"
+url-pretty: "www.d8plearner.ai"
 
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+# disqus: "anuditverma"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+# google_analytics: "UA-84991519-1"
 
 # Google Tag Manager ID
 #gtm: ""
